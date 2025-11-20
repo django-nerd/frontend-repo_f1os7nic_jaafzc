@@ -1,0 +1,17 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 265 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.1.141:3000/
+7:02:39 PM [vite] Pre-transform error: Transform failed with 5 errors:
+/home/workspace/src/components/Contact.jsx:34:131: ERROR: Unexpected closing "span" tag does not match opening "li" tag
+/home/workspace/src/components/Contact.jsx:34:138: ERROR: Unexpected closing "li" tag does not match opening "ul" tag
+/home/workspace/src/components/Contact.jsx:35:14: ERROR: Unexpected closing "ul" tag does not match opening "div" tag
+/home/workspace/src/components/Contact.jsx:62:8: ERROR: Unexpected closing "div" tag does not match opening "section" tag
+/home/workspace/src/components/Contact.jsx:63:14: ERROR: Unterminated regular expression
+7:02:39 PM [vite] ✨ new dependencies optimized: lucide-react
+7:02:39 PM [vite] ✨ optimized dependencies changed. reloading
